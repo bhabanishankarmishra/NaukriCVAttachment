@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79510" started-at="2018-04-09T14:55:45Z" finished-at="2018-04-09T14:57:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="79510" started-at="2018-04-09T14:55:45Z" finished-at="2018-04-09T14:57:04Z">
+      <class name="com.Naukri_Business_Logic.Naukri_Attachment_Code_Base">
+        <test-method status="PASS" signature="preSetup()[pri:0, instance:com.Naukri_Business_Logic.Naukri_Attachment_Code_Base@5c7fa833]" name="preSetup" is-config="true" duration-ms="8916" started-at="2018-04-09T20:25:45Z" finished-at="2018-04-09T20:25:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSetup -->
+        <test-method status="PASS" signature="naukri_Login()[pri:0, instance:com.Naukri_Business_Logic.Naukri_Attachment_Code_Base@5c7fa833]" name="naukri_Login" duration-ms="69940" started-at="2018-04-09T20:25:54Z" finished-at="2018-04-09T20:27:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- naukri_Login -->
+        <test-method status="PASS" signature="postSetup()[pri:0, instance:com.Naukri_Business_Logic.Naukri_Attachment_Code_Base@5c7fa833]" name="postSetup" is-config="true" duration-ms="649" started-at="2018-04-09T20:27:03Z" finished-at="2018-04-09T20:27:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSetup -->
+      </class> <!-- com.Naukri_Business_Logic.Naukri_Attachment_Code_Base -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
