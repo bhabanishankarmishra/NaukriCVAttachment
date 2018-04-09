@@ -53,7 +53,7 @@ WebDriver driver;
 			driver.findElement(By.xpath("//input[@id='pwd1' and @name='PASSWORD']")).sendKeys("godisgreate");
 			//e1.printStackTrace();
 		}
-		Thread.sleep(2000);
+		Thread.sleep(4000);
 		
 		//HIT THE LOGIN BUTTON
 		try {
