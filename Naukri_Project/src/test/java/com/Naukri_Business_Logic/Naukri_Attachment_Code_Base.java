@@ -111,9 +111,11 @@ WebDriver driver;
 		
 	}
 	
+	
 	@AfterClass
-	public void postSetup()
+	public void postSetup() throws InterruptedException
 	{
+		Thread.sleep(4000);
 		driver.quit();
 	}
 	
